@@ -6,5 +6,5 @@ var x = 10;
 console.log(x);
 {
     const x = 10
-    consoe.log(x)
+    console.log(x)
 }
